@@ -30,6 +30,7 @@ public class ProjectEuler3 {
                 if (aux==1) {
                     aux2 =i;
                     System.out.println(aux2);
+                    System.out.println("Epa wei");
                 }
             }
             
