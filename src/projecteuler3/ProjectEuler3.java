@@ -31,6 +31,7 @@ public class ProjectEuler3 {
                     aux2 =i;
                     System.out.println(aux2);
                     System.out.println("Epa wei");
+                    System.out.println("nICOLE");
                 }
             }
             
